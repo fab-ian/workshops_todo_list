@@ -26,6 +26,8 @@ gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
 
+gem 'draper', '~> 3.0.0'
+
 group :development, :test do
   gem 'pry'
   gem 'rspec-rails', '~> 3.5'
